@@ -17,5 +17,6 @@ bdd-log*.xml
 *.cfl
 *.1CL
 1cv8dtmp.1CD
+temp/*
 
 oscript_modules/
